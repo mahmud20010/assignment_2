@@ -361,3 +361,40 @@ body {
     list-style: none;
     padding-left: 15px;
 }
+
+
+.form_section{
+   display: flex;
+   justify-content: space-around;
+   gap: 20px;
+   padding-left: 15px;
+}
+.form_section div{
+    width: 50%;
+}
+.form{
+     border: 1px solid #FF5400;
+     border-radius: 10px;
+}
+.form input{
+    border-radius: 5px;
+    width: 70%;
+}
+
+.input_btn{
+    width: 70%;
+    padding: 15px;
+}
+.form_option{
+    margin: 20px 0px;
+}
+.form_option input{
+    display: block;
+}
+.input_btn{
+    padding: 15px 25px;
+    margin: 10px;
+}
+.form_option button{
+    padding: 15px 25px;
+}

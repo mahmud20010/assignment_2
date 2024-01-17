@@ -67,5 +67,20 @@
    
    
 }
+.discount_details{
+  
+   margin-top: 120px;
+   /* margin-right: 10px; */
+   height: 350px;
+   width: 320px;
+
+}
+.middle_card{
+   margin-top: 120px;
+   margin-right: 15px;
+   height: 350px;
+   width: 320px;
+}
+
 
 }

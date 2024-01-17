@@ -62,9 +62,10 @@
    grid-column: span 1;
 }
 
-.card_container {
+.card_container, .form_section{ 
    flex-direction: column;
-  
+   
    
 }
+
 }
